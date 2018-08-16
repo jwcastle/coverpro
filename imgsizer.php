@@ -1,5 +1,8 @@
 <?php
  
+// http://www.cprtestcenter.com
+// see info file
+// directions for use at bottom
 
 class SimpleImage {
  
